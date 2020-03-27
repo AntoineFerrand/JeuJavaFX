@@ -1,0 +1,25 @@
+.bodybg{
+  -fx-background-color: #52547B;
+}
+
+
+.button {
+  -fx-background-color: red;
+  -fx-text-fill: white;
+  -fx-background-radius: 10px;
+  -fx-font-family: 'Consolas';
+  -fx-font-size: 20px;
+}
+
+.button:hover {
+  -fx-background-color: green;
+  -fx-text-fill: red;
+  -fx-background-radius: 15px;
+}
+
+.list-cell {
+    -fx-control-inner-background: #E6E6FA ;
+    -fx-control-inner-background-alt: derive(-fx-control-inner-background, 50%);
+    -fx-padding: 50px;
+}
+

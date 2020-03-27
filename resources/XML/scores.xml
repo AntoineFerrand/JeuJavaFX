@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.5" class="java.beans.XMLDecoder">
+ <object class="Modele.Score">
+  <void property="nom">
+   <string>Rick</string>
+  </void>
+  <void property="score">
+   <int>1</int>
+  </void>
+ </object>
+ <object class="Modele.Score">
+  <void property="nom">
+   <string>Jean Dujardin</string>
+  </void>
+  <void property="score">
+   <int>2</int>
+  </void>
+ </object>
+ <object class="Modele.Score">
+  <void property="nom">
+   <string>Luffy</string>
+  </void>
+  <void property="score">
+   <int>3</int>
+  </void>
+ </object>
+ <object class="Modele.Score">
+  <void property="nom">
+   <string>Joker</string>
+  </void>
+  <void property="score">
+   <int>4</int>
+  </void>
+ </object>
+ <object class="Modele.Score">
+  <void property="nom">
+   <string>Batman</string>
+  </void>
+  <void property="score">
+   <int>5</int>
+  </void>
+ </object>
+ <object class="Modele.Score">
+  <void property="nom">
+   <string>Lalechere</string>
+  </void>
+  <void property="score">
+   <int>6</int>
+  </void>
+ </object>
+ <object class="Modele.Score">
+  <void property="nom">
+   <string>Haury</string>
+  </void>
+  <void property="score">
+   <int>7</int>
+  </void>
+ </object>
+ <object class="Modele.Score">
+  <void property="nom">
+   <string>Saint-Marcoux</string>
+  </void>
+  <void property="score">
+   <int>8</int>
+  </void>
+ </object>
+ <object class="Modele.Score">
+  <void property="nom">
+   <string>Chabrol</string>
+  </void>
+  <void property="score">
+   <int>9</int>
+  </void>
+ </object>
+ <object class="Modele.Score">
+  <void property="nom">
+   <string>Chuck Norris</string>
+  </void>
+  <void property="score">
+   <int>99</int>
+  </void>
+ </object>
+ <object class="Modele.Score">
+  <void property="nom">
+   <string>Antoine</string>
+  </void>
+  <void property="score">
+   <int>13</int>
+  </void>
+ </object>
+ <object class="Modele.Score">
+  <void property="nom">
+   <string>Tonio</string>
+  </void>
+  <void property="score">
+   <int>24</int>
+  </void>
+ </object>
+</java>

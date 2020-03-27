@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox alignment="CENTER" prefHeight="720.0" prefWidth="1080.0" styleClass="bodybg" stylesheets="@../css/fxmlCSS.css" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Launch.Main">
+    <children>
+        <AnchorPane prefHeight="720.0" prefWidth="1080.0">
+            <children>
+                <Button contentDisplay="CENTER" layoutX="833.0" layoutY="199.0" mnemonicParsing="false" onAction="#lancerJeu" prefHeight="126.0" prefWidth="217.0" text="Jouer" />
+                <Button contentDisplay="CENTER" layoutX="833.0" layoutY="367.0" mnemonicParsing="false" onAction="#score" prefHeight="126.0" prefWidth="217.0" text="Meilleurs scores" />
+                <Button contentDisplay="CENTER" layoutX="834.0" layoutY="531.0" mnemonicParsing="false" onAction="#quitterJeu" prefHeight="119.0" prefWidth="215.0" text="Quitter" />
+                <Label alignment="TOP_CENTER" layoutX="-2.0" layoutY="76.0" prefHeight="72.0" prefWidth="1849.0" text="RUN WITH THE DEATH" textFill="WHITE">
+                    <font>
+                        <Font name="Consolas Bold" size="48.0" />
+                    </font>
+                </Label>
+            </children>
+        </AnchorPane>
+    </children>
+</VBox>
